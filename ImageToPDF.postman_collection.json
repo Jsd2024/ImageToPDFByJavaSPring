@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "02dc1484-2e43-4a49-a5bd-5c6f3a9ddb56",
+		"name": "ImageToPDF",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "8475586"
+	},
+	"item": [
+		{
+			"name": "imgtopdf",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "imgtopdf-job",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
